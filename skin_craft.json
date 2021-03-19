@@ -23,6 +23,18 @@
       "judul":"Skin Boboi Boy",
       "image":"https://play-lh.googleusercontent.com/flWSyH3vWI6bZRN0V_cpHYTQ6-QW7ZZnPaG2JPtq02XtEMJDU6eZi5tiamgk60LNGXM=s180-rw",
       "link":"https://play.google.com/store/apps/details?id=com.creativemods.boboiskinmcpe"
+    },
+    {
+      "id":2,
+      "judul":"Kawaii Skin",
+      "image":"https://play-lh.googleusercontent.com/NCez2o_YvLOYt6mJjqj3dIUaGn66SfGvFKF0I1Sp7Nn5N9tbss402hXvyJu3rm1iFC4R=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.creativemods.kawaiiskinmcpe"
+    },
+    {
+      "id":3,
+      "judul":"Zombie Skin",
+      "image":"https://play-lh.googleusercontent.com/QYAvF7FIjPTfMDkVyOBKLtpOGF3Qx2I_AWFhSIgO6PGRE0lFQUTYxDWQrSNVpQzAbZo=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.creativemods.zombieskinminecraft"
     }
   ],
   "Skin":
